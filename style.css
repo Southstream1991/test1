@@ -1,7 +1,7 @@
 html,
 body {
   /* в этом вся штука */
-  height: 100%;
+  height: auto;
   margin: 0;
 }
 
@@ -21,8 +21,12 @@ body {
   border-radius: 5px;
 }
 
+header {
+  display: flex;
+}
+
 h1 {
-  margin: 0 auto;
+  margin: 0;
   border-bottom: solid 7px #0066b3;
   text-transform: uppercase;
 }
