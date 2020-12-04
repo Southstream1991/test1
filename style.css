@@ -30,3 +30,7 @@ h1 {
   border-bottom: solid 7px #0066b3;
   text-transform: uppercase;
 }
+
+img {
+  border: 10px solid hsla(214, 100%, 44%, 0.1);
+}
